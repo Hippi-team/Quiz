@@ -16,4 +16,4 @@ Quizlet App made Node js, Express js, MySql, React js.
 |Name|Email|Github User name|worked at|
 |----|-----|-------|-------|
 |Kerwen Garahanow|karahanow2903@gmail.com|Kerwen2903|Frontend|
-|Halliyew Shahzod|hallievshahzad7@gmail.com|shahzod1609|backend|
+|Halliyew Shahzod|hallievshahzad7@gmail.com|shahzod1609|Backend|
